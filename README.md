@@ -31,7 +31,7 @@ All practicums are held at Cornell Tech in Big Red from 10a to 12p unless otherw
 
 ## Student Responsibilities
 
-* Students should spend a little time preparing for each practicum by reading about the guests. 
+* Students should spend a little time preparing for each practicum by reading about the guests and thinking of a few questions to ask.
 
 * Students must proactively engage the guests and each other, asking attentive questions and making followup comments.
 
