@@ -1,5 +1,4 @@
-entrepreneurial-life
-====================
+# Entrepreneurial Life (CS 5091)
 
 This series of practicums explores the question of what it means for a person to be entrepreneurial, including skills, approaches, spirit, and more. Each week features an active discussion or working session with a guest practitioner who has impacted the world through his or her entrepreneurial effort. Led by Greg Pass, Chief Entrepreneurial Officer.
 
