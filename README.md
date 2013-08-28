@@ -4,7 +4,7 @@ This series of practicums explores the question of what it means for a person to
 
 ## Schedule
 
-All practicums are held at Cornell Tech in Big Red from 10a to 12p unless otherwise noted.
+All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p unless otherwise noted.
 
 * 8/30 - **Storytelling** with Robert Wong at Google
 * 9/6 - **Early entrepreneurship** with Carter Cleveland at Art.sy, Elias Roman at Sognza, and Brian Shimmerlik at TaxiTreats (all NYC Venture Fellows)
