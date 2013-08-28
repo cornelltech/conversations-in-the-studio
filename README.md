@@ -9,7 +9,7 @@ All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p un
 * 8/30 - **Storytelling** with Robert Wong at Google
 * 9/6 - **Early entrepreneurship** with Carter Cleveland at Art.sy, Elias Roman at Sognza, and Brian Shimmerlik at TaxiTreats (all NYC Venture Fellows)
 * 9/13 - **Intrapreneurship** with Rob Cook, formerly at Pixar
-* 9/20 - **Art** with at MoMA (field trip to MoMA, 10:30a to 12p)
+* 9/20 - **Art** with Paola Antonelli at MoMA (field trip to MoMA, 10:30a to 12p)
 * 9/27 - **Venture capital** with Albert Wenger at Union Square Ventures
 * 10/4 - **Design** with Autodesk
 * 10/11 - TBD (either this date or 11/8)
