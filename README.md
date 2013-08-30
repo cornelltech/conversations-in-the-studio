@@ -6,18 +6,18 @@ This series of practicums explores the question of what it means for a person to
 
 All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p unless otherwise noted.
 
-* 8/30 - **Storytelling** with Robert Wong at Google
-* 9/6 - **Early entrepreneurship** with Carter Cleveland at Art.sy, Elias Roman at Sognza, and Brian Shimmerlik at TaxiTreats (all NYC Venture Fellows)
-* 9/13 - **Intrapreneurship** with Rob Cook, formerly at Pixar
-* 9/20 - **Art** with Paola Antonelli at MoMA (field trip to MoMA, 10:30a to 12p)
-* 9/27 - **Venture capital** with Albert Wenger at Union Square Ventures
+* 8/30 - **Storytelling** with Robert Wong, Chief Creative Officer at Google Creative Lab
+* 9/6 - **Early entrepreneurship** with Carter Cleveland, Founder and CEO at Art.sy, Elias Roman, Co-founder and CEO at Sognza, and Brian Shimmerlik, Founder and CEO at TaxiTreats (all NYC Venture Fellows)
+* 9/13 - **Intrapreneurship** with Rob Cook, former VP of Engineering at Pixar
+* 9/20 - **Art** with Paola Antonelli, Senior Curator of Architecture & Design at MoMA (field trip to MoMA, 10:30a to 12p)
+* 9/27 - **Venture capital** with Albert Wenger, Managing Partner at Union Square Ventures
 * 10/4 - **Design** with Autodesk
 * 10/11 - TBD (either this date or 11/8)
-* 10/18 - **Teambuilding** with Scott Kupor at Andreessen Horowitz
-* 10/25 - **Social entrepreneurship** with Charles Best at DonorsChoose
+* 10/18 - **Teambuilding** with Scott Kupor, Managing Partner at Andreessen Horowitz
+* 10/25 - **Social entrepreneurship** with Charles Best, Founder and CEO at DonorsChoose
 * 11/8 - TBD (either this date or 10/11)
-* 11/15 - **Product management** with Jason Goldman at Medium
-* 12/6 - **Lessons learned** with David Tisch at BoxGroup
+* 11/15 - **Product management** with Jason Goldman, former VP of Product at Twitter
+* 12/6 - **Lessons learned** with David Tisch, Managing Director at BoxGroup, Co-founder at Techstars
 
 ## Course Objectives
 
