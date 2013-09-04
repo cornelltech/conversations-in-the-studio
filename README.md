@@ -12,10 +12,9 @@ All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p un
 * 9/20 - **Art** with Paola Antonelli, Senior Curator of Architecture & Design at MoMA (field trip to MoMA, 10:30a to 12p)
 * 9/27 - **Venture capital** with Albert Wenger, Managing Partner at Union Square Ventures
 * 10/4 - **Design** with Autodesk
-* 10/11 - TBD (either this date or 11/8)
+* 10/11 - **Digital humanism** with Douglas Rushkoff
 * 10/18 - **Teambuilding** with Scott Kupor, Managing Partner at Andreessen Horowitz
 * 10/25 - **Social entrepreneurship** with Charles Best, Founder and CEO at DonorsChoose
-* 11/8 - TBD (either this date or 10/11)
 * 11/15 - **Product management** with Jason Goldman, Co-founder of Obvious and former VP of Product at Twitter
 * 12/6 - **Lessons learned** with David Tisch, Managing Director at BoxGroup and Co-founder at Techstars
 
