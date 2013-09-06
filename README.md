@@ -7,7 +7,7 @@ This series of practicums explores the question of what it means for a person to
 All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p unless otherwise noted.
 
 * 8/30 - **Storytelling** with Robert Wong, Chief Creative Officer at Google Creative Lab
-* 9/6 - **Early entrepreneurship** with Carter Cleveland, Founder and CEO at Art.sy, Elias Roman, Co-founder and CEO at Sognza, and Brian Shimmerlik, Founder and CEO at TaxiTreats (all NYC Venture Fellows)
+* 9/6 - **Early entrepreneurship** with Carter Cleveland, Founder and CEO at Art.sy, Elias Roman, Co-founder and CEO at Songza, and Brian Shimmerlik, Founder and CEO at TaxiTreats (all NYC Venture Fellows)
 * 9/13 - **Intrapreneurship** with Rob Cook, former VP of Engineering at Pixar
 * 9/20 - **Art** with Paola Antonelli, Senior Curator of Architecture & Design at MoMA (field trip to MoMA, 10:30a to 12p)
 * 9/27 - **Venture capital** with Albert Wenger, Managing Partner at Union Square Ventures
