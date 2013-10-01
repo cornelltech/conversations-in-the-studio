@@ -11,7 +11,7 @@ All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p un
 * 9/13 - **Intrapreneurship** with Rob Cook, former VP of Engineering at Pixar
 * 9/20 - **Art** with Paola Antonelli, Senior Curator of Architecture & Design at MoMA (field trip to MoMA, 10:30a to 12:30p)
 * 9/27 - **Venture capital** with Albert Wenger, Managing Partner at Union Square Ventures (9:30a to 11a)
-* 10/4 - **Design** with Autodesk (9a to 4p, part of Design Day)
+* 10/4 - **Design** with Autodesk (9a to 10:30a, the start of Design Day)
 * 10/11 - **Digital humanism** with Douglas Rushkoff (starts at 10:15a)
 * 10/18 - **Teambuilding** with Scott Kupor, Managing Partner at Andreessen Horowitz
 * 10/25 - **Social entrepreneurship** with Charles Best, Founder and CEO at DonorsChoose
