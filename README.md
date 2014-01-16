@@ -11,8 +11,8 @@ All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p un
 * 2/7 - **Social entrepreneurship** with Jacqueline Novogratz, CEO at Acumen
 * 2/14 - **Early entrepreneurship** with entrepreneurs from the Dorm Room Fund, TBD
 * 2/21 - **Art** with artist TBD and Heather Corcoran, Executive Director at Rhizome Foundation
-* 3/7 - **Venture Capital** with Howard Morgan, Partner at First Round Capital
-* 3/14 - **Digital ethics** with TBD
+* 3/7 - **Venture capital** with Howard Morgan, Partner at First Round Capital
+* 3/14 - **Digital privacy** with Jessica Finkelstein, former General Counsel of Admeld and advisor to the Future of Privacy Forum
 * 3/21 - **Entrepreneurship** with Uri Levine, Founder at Waze
 * 4/11 - **Social media** with Gary Vaynerchuk, Co-founder and CEO at VaynerMedia
 * 4/25 - **Bootstrapping** with Philip Kaplan, Founder at Fandalism
