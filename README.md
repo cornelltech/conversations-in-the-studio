@@ -15,7 +15,7 @@ All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p un
 * 3/14 - **Digital privacy** with Jessica Finkelstein, former General Counsel of Admeld and advisor to the Future of Privacy Forum
 * 3/21 - **Entrepreneurship** with Uri Levine, Founder at Waze
 * 4/11 - **Social media** with Gary Vaynerchuk, Co-founder and CEO at VaynerMedia
-* 4/25 - **Bootstrapping** with Philip Kaplan, Founder at Fandalism
+* 4/25 - **Bootstrapping** with Philip Kaplan, Founder at Fandalism and author of "F'd Companies"
 * 5/2 - **Lessons learned** with TBD
 
 ## Course Objectives
