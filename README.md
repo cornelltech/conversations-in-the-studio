@@ -4,7 +4,7 @@ This practicum explores the question of what it means for a person to be entrepr
 
 ## Schedule for Spring 2014
 
-All practicums are held at Cornell Tech in Big Red on Fridays from 10a to 12p unless otherwise noted.
+The practicum is held at Cornell Tech in Big Red on Fridays from 10a to 12p unless otherwise noted.
 
 * 1/24 - **Storytelling** with Sam Slaughter, VP of Content at Contently
 * 1/31 - **Product design** with Gerry Campbell, author of "Demand Horizon"
