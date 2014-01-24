@@ -20,27 +20,27 @@ The practicum is held at Cornell Tech in Big Red on Fridays from 10a to 12p unle
 
 ## Course Objectives
 
-* To help students understand the value of entrepreneurialism, what it takes to be entrepreneurial, and how to achieve real-world impact. These topics can be understood commercially, societally, and personally.
+* To help students understand the value and means of entrepreneurialism. This topic can be understood commercially, societally, and personally.
 
-* To broadly expose students to varying forms and means of real-world, entrepreneurial impact, from commercial success to societal good, from computer science to inter-disciplines, from the pure tech sector to the information economy transforming all sectors, from startups to growth opportunities on and at any stage.
+* To broadly expose students to varying forms of real-world, entrepreneurial impact, from commercial success to societal good, from computer science to inter-disciplines, from the pure tech sector to the information economy transforming all sectors, from startups to growth opportunities on and at any stage.
 
 * To give students first-hand contact with entrepreneurial individuals that can serve as role models and connectors.
 
-* To help students develop personal models of entrepreneurialism that will motivate and aid their own entrepreneurial efforts after graduation.
+* To help students develop personal models of entrepreneurialism that will motivate and aid their own entrepreneurial lives after graduation.
 
 ## Student Responsibilities
 
-* Students should spend a little time preparing for each practicum by reading about the guests and thinking of a few questions to ask.
+* Students should spend a little time each week by reading about the guest and preparing a few questions to ask.
 
 * Students must proactively engage the guests and each other, asking attentive questions and making followup comments.
 
-* At the end of each practicum, one or two students are called upon to note their key takeaways from that practicum.
+* At the end of each week, one or two students are called upon (or volunteer) to note their key takeaways in front of the guest.
 
-* In the final practicum, many students are called upon to present their key takeaways from the entire series of practicums, to be discussed as a group and with the guests.
+* In the final week, many students are called upon to present their key takeaways from the entire semester, to be discussed as a group and with the guest.
 
 ## Grading
 
-This series is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
+This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
 
 ## Past Guests
 
