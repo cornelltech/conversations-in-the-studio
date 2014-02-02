@@ -10,7 +10,7 @@ The practicum is held at Cornell Tech in Big Red on Fridays from 10a to 12p unle
 * 1/31 - **Product design** with Gerry Campbell, author of "Demand Horizon"
 * 2/7 - **Social entrepreneurship** with Jacqueline Novogratz, CEO at Acumen
 * 2/14 - **Early entrepreneurship** with three founders, TBD, whose companies are in the Dorm Room Fund
-* 2/21 - **Art** with artist TBD and Heather Corcoran, Executive Director at Rhizome Foundation
+* 2/21 - **Art** with artist Adam Harvey and Heather Corcoran, Executive Director at Rhizome Foundation
 * 3/7 - **Venture capital** with Howard Morgan, Partner at First Round Capital
 * 3/14 - **Digital privacy** with Jessica Finkelstein, former General Counsel of Admeld and advisor to the Future of Privacy Forum
 * 3/21 - **Entrepreneurship** with Uri Levine, Founder at Waze
