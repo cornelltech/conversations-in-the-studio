@@ -12,7 +12,7 @@ The practicum is held at Cornell Tech in Big Red on Fridays from 10a to 12p unle
 * 2/14 - **Early entrepreneurship** with Marshall Cox, CEO and Co-founder at Radiator Labs, Tim Hwang, CEO and Co-founder at FiscalNote, Vincent Sanchez-Gomez, CEO and Co-founder at PageVamp, all whose companies are in the Dorm Room Fund, and CeCe Cheng, Director of Dorm Room Fund at First Round Capital
 * 2/21 - **Art** with artist Adam Harvey and Heather Corcoran, Executive Director at Rhizome Foundation (**NOTE**: this is a field trip to the [New Museum](http://www.newmuseum.org/visit), where we will meet at 9:45a)
 * 3/7 - **Venture capital** with Howard Morgan, Partner at First Round Capital
-* 3/14 - **Digital privacy** with Jessica Finkelstein, former General Counsel at Admeld and advisor to the Future of Privacy Forum
+* 3/14 - **Digital privacy** with Brian Chase, General Counsel of Foursquare
 * 3/21 - **Entrepreneurship** with Uri Levine, Founder at Waze
 * 4/11 - **Social media** with Gary Vaynerchuk, Co-founder and CEO at VaynerMedia
 * 4/25 - **Bootstrapping** with Philip Kaplan, Founder at Fandalism and author of "F'd Companies"
