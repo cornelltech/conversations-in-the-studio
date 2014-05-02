@@ -15,7 +15,7 @@ The practicum is held at Cornell Tech in Big Red on Fridays from 10a to 12p unle
 * 3/14 - **Digital privacy** with Brian Chase, General Counsel of Foursquare
 * 3/21 - **Entrepreneurship** with Uri Levine, Founder at Waze
 * 4/25 - **Bootstrapping** with Philip Kaplan, Founder at Fandalism and author of "F'd Companies"
-* 5/2 - **Lessons learned** with Jonah Goodhart, Co-founder and CEO, Noah Goodhart, Co-founder, and Aniq Rahman, President, all at Moat
+* 5/2 - **Lessons learned** with Noah Goodhart, Co-founder, and Aniq Rahman, President, both at Moat
 
 ## Course Objectives
 
