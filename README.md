@@ -1,10 +1,56 @@
-# Entrepreneurial Life (CS 5091)
+# Conversations in the Studio (CS 5091)
 
-This practicum explores the question of what it means for a person to be entrepreneurial, from skills to spirit. Each week features a thematic discussion or working session with a guest practitioner who actively lives an entrepreneurial life. Led by Greg Pass, Chief Entrepreneurial Officer.
+This practicum features a weekly guest practitioner for a spirited discussion with students and faculty on a broad range of practical topics spanning entrepreneurship, product development, storytelling, art, technology, venture capital, ethics, and more.
 
-## Schedule for Spring 2014
+The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, and other diverse leaders who are impacting society though their entrepreneurial efforts.
+Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics.
 
-The practicum is held at Cornell Tech in Big Red on Fridays from 10a to 12p unless otherwise noted.
+Led by Greg Pass, Chief Entrepreneurial Officer.
+
+## Schedule for Fall 2014
+
+The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
+
+* 9/5 - TBD
+* 9/12 - TBD
+* 9/19 - TBD
+* 9/26 - TBD
+* 10/10 - TBD
+* 10/17 - TBD
+* 10/24 - TBD
+* 11/7 - TBD
+* 11/14 - TBD
+* 11/21 - **Lessons learned** with TBD
+
+## Course Objectives
+
+*	To help students understand the value and means of real-world, practical impact. This topic can be understood commercially, societally, and personally.
+
+*	To broadly expose students to varying forms of impact, from commercial success to societal good, from engineering to art, from the pure tech sector to the information economy transforming all sectors, from startups to growth opportunities on and at any stage.
+
+*	To give students first-hand contact with entrepreneurial individuals that can serve as role models and connectors.
+
+*	To help students develop personal models of impact that will motivate and aid their own entrepreneurial lives after graduation.
+
+*	To give students experience moderating thoughtful conversations with diverse leaders on behalf of the Cornell Tech community.
+
+## Student Responsibilities
+
+*	Each week a randomly assigned group of students is responsible for moderating the conversation. This includes researching the guest and topic beforehand, coming prepared with questions and discussion points, welcoming and introducing the guest, and leading the group conversation.
+
+*	Students must proactively engage the guests and each other, asking attentive questions and making follow-up comments.
+
+*	At the end of each practicum, both the moderating students and several students in the audience volunteer or are called upon to share their personal takeaways in front of the guest.
+
+*	In the final week, students come prepared to share their personal takeaways from the entire semester, to be discussed as a group and with the guest.
+
+## Grading
+
+This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
+
+## Past Conversations
+
+### Spring 2014
 
 * 1/24 - **Storytelling** with Sam Slaughter, VP of Content at Contently
 * 1/31 - **Product design** with Gerry Campbell, author of "Demand Horizon"
@@ -16,32 +62,6 @@ The practicum is held at Cornell Tech in Big Red on Fridays from 10a to 12p unle
 * 3/21 - **Entrepreneurship** with Uri Levine, Founder at Waze
 * 4/25 - **Bootstrapping** with Philip Kaplan, Founder at Fandalism and author of "F'd Companies"
 * 5/2 - **Lessons learned** with Noah Goodhart, Co-founder, and Aniq Rahman, President, both at Moat
-
-## Course Objectives
-
-* To help students understand the value and means of entrepreneurialism. This topic can be understood commercially, societally, and personally.
-
-* To broadly expose students to varying forms of real-world, entrepreneurial impact, from commercial success to societal good, from computer science to inter-disciplines, from the pure tech sector to the information economy transforming all sectors, from startups to growth opportunities on and at any stage.
-
-* To give students first-hand contact with entrepreneurial individuals that can serve as role models and connectors.
-
-* To help students develop personal models of entrepreneurialism that will motivate and aid their own entrepreneurial lives after graduation.
-
-## Student Responsibilities
-
-* Students should spend a little time each week by reading about the guest and preparing a few questions to ask.
-
-* Students must proactively engage the guests and each other, asking attentive questions and making followup comments.
-
-* At the end of each week, one or two students are called upon (or volunteer) to note their key takeaways in front of the guest.
-
-* In the final week, many students are called upon to present their key takeaways from the entire semester, to be discussed as a group and with the guest.
-
-## Grading
-
-This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
-
-## Past Guests
 
 ### Fall 2013
 
