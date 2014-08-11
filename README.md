@@ -13,14 +13,14 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 
 * 9/5 - TBD
 * 9/12 - TBD
-* 9/19 - TBD
-* 9/26 - TBD
-* 10/10 - TBD
-* 10/17 - TBD
-* 10/24 - TBD
+* 9/19 - **Venture Capital** with Bob Goodman, Partner at Bessemer Venture Partners
+* 9/26 - **Entrepreneurship** with Gary Vaynerchuk, Co-founder and CEO at VaynerMedia
+* 10/10 - **Futurism** with David Brin, award-winning author of science fiction
+* 10/17 - **Product** with Pramod Sharma, Co-founder and CEO at Tangible Play
+* 10/24 - **Storytelling** with Raymond Nasr, former Director of Executive Communications at Google
 * 11/7 - TBD
 * 11/14 - TBD
-* 11/21 - **Lessons learned** with TBD
+* 11/21 - **Lessons learned** with Scott Belsky, Co-Founder and Head at Behance and VP of Products/Community at Adobe
 
 ## Course Objectives
 
