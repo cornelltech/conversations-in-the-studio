@@ -19,7 +19,6 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 10/17 - **Product** with Pramod Sharma, Co-founder and CEO at Tangible Play
 * 10/24 - **Storytelling** with Raymond Nasr, former Director of Executive Communications at Google
 * 11/7 - TBD
-* 11/11 - TBD (**NOTE**: this special session is on Tuesday at 4p during Studio)
 * 11/14 - **Art** with artist Martine Sims and Heather Corcoran, Executive Director at Rhizome Foundation (**NOTE**: this is a field trip to the [New Museum](http://www.newmuseum.org/visit), where we will meet at 9:45a)
 * 11/21 - **Lessons learned** with Scott Belsky, Co-Founder and Head at Behance and VP of Products/Community at Adobe
 
