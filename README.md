@@ -11,7 +11,7 @@ Led by Greg Pass, Chief Entrepreneurial Officer.
 
 The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
 
-* 9/5 - TBD
+* 9/5 - **Intrapreneurship** with Tony Melone, CTO at Verizon, and Pramod Kalyanasundaram, VP at Verizon Internet Software and Technology Group
 * 9/12 - TBD
 * 9/19 - **Venture Capital** with Bob Goodman, Partner at Bessemer Venture Partners
 * 9/26 - **Entrepreneurship** with Gary Vaynerchuk, Co-founder and CEO at VaynerMedia
