@@ -17,7 +17,7 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 9/26 - **Media** with Gary Vaynerchuk, Co-founder and CEO at VaynerMedia
 * 10/10 - **Futurism** with David Brin, award-winning author of science fiction
 * 10/17 - **Product** with Pramod Sharma, Co-founder and CEO at Tangible Play
-* 10/21 - **Social entrepreneurship** with Jennifer Dulski, President & COO at Change.org (**NOTE**: this is during Studio on Tuesday from 2:30p to 4:30p)
+* 10/21 - **Social entrepreneurship** with Jennifer Dulski, President & COO at Change.org (**NOTE**: this is during Studio on Tuesday from 3:00p to 5:00p)
 * 10/24 - **Storytelling** with Raymond Nasr, former Director of Executive Communications at Google
 * 11/14 - **Art** with artist Martine Sims and Heather Corcoran, Executive Director at Rhizome Foundation (**NOTE**: this is a field trip to the [New Museum](http://www.newmuseum.org/visit), where we will meet at 9:45a)
 * 11/21 - **Lessons learned** with Scott Belsky, Co-Founder and Head at Behance and VP of Products/Community at Adobe
