@@ -1,15 +1,59 @@
 # Conversations in the Studio (CS 5091)
 
-This practicum features a weekly guest practitioner for a spirited discussion with students and faculty on a broad range of practical topics spanning entrepreneurship, product development, storytelling, art, technology, venture capital, ethics, and more.
+This practicum features a weekly guest practitioner for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society though their entrepreneurial efforts.
 
-The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, and other diverse leaders who are impacting society though their entrepreneurial efforts.
-Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics.
+Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
 Led by Greg Pass, Chief Entrepreneurial Officer.
 
-## Schedule for Fall 2014
+## Schedule for Spring 2015
 
 The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
+
+* 1/23 - **Entrepreneurship** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
+* 1/30 - **Intrapreneurship** with Brad Short, Distinguished Technologist at HP, co-inventor of the Sprout
+* 2/6 - TBD
+* 2/19 - TBD (**NOTE**: this is on Thursday from 3:00p to 5:00p)
+* 3/6 - TBD
+* 3/13 - TBD
+* 3/19 - TBD (**NOTE**: this is on Thursday from 3:00p to 5:00p)
+* 4/10 - TBD
+* 4/17 - TBD
+* 4/24 - TBD
+
+## Course Objectives
+
+*	To broadly expose students to varying forms of impact, from commercial success to societal good, from engineering to art, from the pure tech sector to the information economy transforming all sectors, from startups to growth opportunities on and at any stage.
+
+*	To help students understand the value and means of impact. This topic can be understood commercially, societally, and personally.
+
+*	To help students develop personal models of impact that will motivate and aid their own entrepreneurial lives after graduation.
+
+*	To give students first-hand contact with entrepreneurial individuals that can serve as role models and connectors.
+
+*	To give students experience moderating thoughtful conversations with diverse leaders on behalf of the Cornell Tech community.
+
+## Student Responsibilities
+
+*	Each week a randomly assigned group of students is responsible for moderating the group conversation. This includes researching the guest beforehand, [preparing questions and discussion topics](https://github.com/cornelltech/conversations-in-the-studio/wiki/Questions), and [leading the conversation](https://github.com/cornelltech/conversations-in-the-studio/wiki/Moderation).
+
+* Students can swap weekly assignments if they prefer to moderate each other's weeks. Email the instructor about the swap.
+
+*	Students must proactively engage the guests and each other, asking attentive questions and making follow-up comments.
+
+*	At the end of each Conversation, both the moderating students and several students in the audience volunteer or are called upon to share their personal takeaways in front of the guest.
+
+* This is a closed-door practicum: students can tweet (or otherwise mention on social media) general information about a guest's Conversation but cannot quote the guest or share any specific information.
+
+* Laptop use is prohibited during the Conversation.
+
+## Grading
+
+This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
+
+## Past Conversations
+
+### Fall 2014
 
 * 9/5 - **Intrapreneurship** with Tony Melone, CTO at Verizon, and Pramod Kalyanasundaram, VP at Verizon Internet Software and Technology Group
 * 9/12 - **Entrepreneurship** with Yancy Strickler, Co-founder and CEO at Kickstarter
@@ -21,34 +65,6 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 10/24 - **Storytelling** with Raymond Nasr, former Director of Executive Communications at Google
 * 11/14 - **Art** with artist Martine Syms and Heather Corcoran, Executive Director at Rhizome Foundation (**NOTE**: this is a field trip to the [New Museum](http://www.newmuseum.org/visit), where we will meet at 9:45a)
 * 11/21 - **Lessons learned** with Scott Belsky, Co-Founder and Head at Behance and VP of Products/Community at Adobe
-
-## Course Objectives
-
-*	To help students understand the value and means of real-world, practical impact. This topic can be understood commercially, societally, and personally.
-
-*	To broadly expose students to varying forms of impact, from commercial success to societal good, from engineering to art, from the pure tech sector to the information economy transforming all sectors, from startups to growth opportunities on and at any stage.
-
-*	To give students first-hand contact with entrepreneurial individuals that can serve as role models and connectors.
-
-*	To help students develop personal models of impact that will motivate and aid their own entrepreneurial lives after graduation.
-
-*	To give students experience moderating thoughtful conversations with diverse leaders on behalf of the Cornell Tech community.
-
-## Student Responsibilities
-
-*	Each week a randomly assigned group of students is responsible for moderating the conversation. This includes researching the guest and topic beforehand, coming prepared with [questions and discussion points](https://github.com/cornelltech/conversations-in-the-studio/wiki/Questions), welcoming and introducing the guest, and leading the group conversation.
-
-*	Students must proactively engage the guests and each other, asking attentive questions and making follow-up comments.
-
-*	At the end of each practicum, both the moderating students and several students in the audience volunteer or are called upon to share their personal takeaways in front of the guest.
-
-*	In the final week, students come prepared to share their personal takeaways from the entire semester, to be discussed as a group and with the guest.
-
-## Grading
-
-This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
-
-## Past Conversations
 
 ### Spring 2014
 
