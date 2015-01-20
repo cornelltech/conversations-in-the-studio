@@ -35,7 +35,7 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 
 ## Student Responsibilities
 
-*	Each week a randomly assigned group of students is responsible for moderating the group conversation. This includes researching the guest beforehand, [preparing questions and discussion topics](https://github.com/cornelltech/conversations-in-the-studio/wiki/Questions), and [leading the conversation](https://github.com/cornelltech/conversations-in-the-studio/wiki/Moderation).
+*	Each week a randomly assigned group of students is responsible for moderating the group conversation. This includes researching the guest beforehand, [preparing questions](https://github.com/cornelltech/conversations-in-the-studio/wiki/Questions), and [leading the conversation](https://github.com/cornelltech/conversations-in-the-studio/wiki/Moderation).
 
 * Students can swap weekly assignments if they prefer to moderate each other's weeks. Email the instructor about the swap.
 
