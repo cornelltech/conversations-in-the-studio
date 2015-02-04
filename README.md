@@ -10,16 +10,16 @@ Led by Greg Pass, Chief Entrepreneurial Officer.
 
 The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
 
-* 1/23 - **Entrepreneurship** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
+* 1/23 - **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
 * 1/30 - **Intrapreneurship** with Brad Short, Distinguished Technologist at HP, co-inventor of the Sprout
 * 2/6 - **Art Tech** with artists and Eyebeam Fellows Nancy Nowacek and Torkwase Dyson (**NOTE**: this is a field trip to [Eyebeam](http://www.eyebeam.org), arrive by 9:45a) 
 * 2/19 - **Fashion Tech** with Liz Bacelar, Founder & CEO at Decoded Fashion and José Chan, VP of Business Development at Celect (**NOTE**: this is on Thursday from 3:30p to 5:30p)
 * 3/6 - **Venture capital** with Brad Burnham, Managing Partner at Union Square Ventures
 * 3/13 - TBD
 * 3/19 - **Early entrepreneurship** with Aditya Mukerjee, Co-Founder & CTO at BoardRounds, Lauren Talbot, Founder at Pull, and Todd Kawakita, Co-Founder at 1 Page Party (**NOTE**: this is on Thursday from 3:30p to 5:30p)
-* 4/10 - TBD
+* 4/10 - **Entrepreneurship** with Evan Williams, Co-Founder and CEO at Medium
 * 4/17 - TBD
-* 4/24 - TBD
+* 4/24 - **Entrepreneurship** with Arianna Huffington, Co-Founder and Editor-in-Chief at The Huffington Post
 
 ## Course Objectives
 
