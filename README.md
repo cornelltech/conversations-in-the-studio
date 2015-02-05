@@ -17,7 +17,7 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 3/6 - **Venture capital** with Brad Burnham, Managing Partner at Union Square Ventures
 * 3/13 - TBD
 * 3/19 - **Early entrepreneurship** with Aditya Mukerjee, Co-Founder & CTO at BoardRounds, Lauren Talbot, Founder at Pull, and Todd Kawakita, Co-Founder at 1 Page Party (**NOTE**: this is on Thursday from 3:30p to 5:30p)
-* 4/10 - **Entrepreneurship** with Evan Williams, Co-Founder and CEO at Medium
+* 4/10 - **Product** with Evan Williams, Co-Founder and CEO at Medium
 * 4/17 - TBD
 * 4/24 - **Entrepreneurship** with Arianna Huffington, Co-Founder and Editor-in-Chief at The Huffington Post
 
