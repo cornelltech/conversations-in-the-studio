@@ -15,8 +15,8 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 2/6 - **Art Tech** with artists and Eyebeam Fellows Nancy Nowacek and Torkwase Dyson (**NOTE**: this is a field trip to [Eyebeam](http://www.eyebeam.org), arrive by 9:45a) 
 * 2/19 - **Fashion Tech** with José Chan, VP of Business Development at Celect and Mac Bishop, Founder at Wool & Prince and Founder at Native(X) (**NOTE**: this is on Thursday from 3:30p to 5:30p)
 * 3/6 - **Venture capital** with Brad Burnham, Managing Partner at Union Square Ventures
-* 3/27 - **Deep web** with Alex Winter, actor and filmmaker (**NOTE**: this is after the Studio Sprint from 2p to 4p)
 * 3/19 - **Early entrepreneurship** with Cornell Tech alums Aditya Mukerjee, Co-Founder at BoardRounds, Lauren Talbot, Founder at Pull, Todd Kawakita, Co-Founder at 1 Page Party, and Kiran Vajapey and Robert Parks, Co-Founders at Oystir (**NOTE**: this is on Thursday from 3:30p to 5:30p)
+* 3/27 - **Deep web** with Alex Winter, actor and filmmaker (**NOTE**: this is after the Studio Sprint from 2p to 4p)
 * 4/10 - **Product** with Evan Williams, Co-Founder and CEO at Medium
 * 4/17 - TBD
 * 4/24 - **Entrepreneurship** with Arianna Huffington, Co-Founder and Editor-in-Chief at The Huffington Post
