@@ -56,7 +56,7 @@ This practicum is graded S/U. Attendance and participation are required. Student
 ### Fall 2014
 
 * 9/5 - **Intrapreneurship** with Tony Melone, CTO at Verizon, and Pramod Kalyanasundaram, VP at Verizon Internet Software and Technology Group
-* 9/12 - **Entrepreneurship** with Yancy Strickler, Co-founder and CEO at Kickstarter
+* 9/12 - **Entrepreneurship** with Yancey Strickler, Co-founder and CEO at Kickstarter
 * 9/19 - **Venture capital** with Bob Goodman, Partner at Bessemer Venture Partners
 * 9/26 - **Media** with Gary Vaynerchuk, Co-founder and CEO at VaynerMedia
 * 10/10 - **Futurism** with David Brin, award-winning author of science fiction
