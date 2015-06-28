@@ -23,7 +23,7 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 
 ## Course Objectives
 
-*	To broadly expose students to varying forms of impact, from commercial success to societal good, from engineering to art, from the pure tech sector to the information economy transforming all sectors, from startups to growth opportunities on and at any stage.
+*	To broadly expose students to varying forms of impact, from commercial success to societal good, from engineering to art, from the pure tech sector to the digital economy transforming all sectors, from startups to growth opportunities on and at any stage.
 
 *	To help students understand the value and means of impact. This topic can be understood commercially, societally, and personally.
 
@@ -31,7 +31,7 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 
 *	To give students first-hand contact with entrepreneurial individuals that can serve as role models and connectors.
 
-*	To give students experience moderating thoughtful conversations with diverse leaders on behalf of the Cornell Tech community.
+*	To give students experience having thoughtful conversations with diverse leaders.
 
 ## Student Responsibilities
 
@@ -45,7 +45,9 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 
 * This is a closed-door practicum: students can tweet (or otherwise mention on social media) general information about a guest's Conversation but cannot quote the guest or share any specific information.
 
-* Laptop use is prohibited during the Conversation.
+* Laptop and cell phone use are prohibited during the Conversation (journal use is permitted).
+
+* Respect the guest's time commitment and do not be late to class.
 
 ## Grading
 
