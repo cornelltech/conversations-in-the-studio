@@ -4,8 +4,6 @@ This practicum features a weekly guest practitioner for a provocative, closed-do
 
 Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
-Led by Greg Pass, Chief Entrepreneurial Officer.
-
 ## Schedule for Fall 2015
 
 The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
