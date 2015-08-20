@@ -41,6 +41,8 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 
 * Whenever a student speaks for the first time in a given week, they should tell the guest their name, degree, and one thing about themselves (e.g., a project they are working on at Cornell Tech).
 
+* Students asking questions from the audience should stand up when called upon.
+
 *	At the end of each Conversation, both the moderating students and several students in the audience volunteer or are called upon to share their personal takeaways in front of the guest.
 
 * This is a closed-door practicum: students can tweet (or otherwise mention on social media) general information about a guest's Conversation but cannot quote the guest or share any specific information.
