@@ -9,7 +9,7 @@ Conversations take place in the Cornell Tech Studio, and are moderated each week
 The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
 
 * 8/21 - Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
-* 8/28 - Philip Kaplan, Founder at DistroKid, F-ed Company, and more
+* 8/28 - Philip Kaplan, Founder at DistroKid, former Founder at F-ed Company
 * 9/11 – Steve Conine & Niraj Shah, Founders at Wayfair
 * 9/18 – Eric Schmidt, Chairman at Alphabet (and formerly of Google)
 * 10/2 - Sara Levinson, Co-founder at Kandu, former President at MTV
