@@ -14,7 +14,7 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 9/18 – Eric Schmidt, Chairman at Alphabet (and formerly of Google)
 * 10/2 - Sara Levinson, Co-founder at Kandu, former President at MTV
 * 10/16 - Wildcard
-* 10/30 - Kristen Titus, Founding Director at NYC Tech Talent Pipeline, former Executive Director at Girls Who Code (Note: this is from 2:30p to 4:30p)
+* 10/30 - Kristen Titus, Founding Director at NYC Tech Talent Pipeline, former Executive Director at Girls Who Code (**NOTE**: this is from 2:30p to 4:30p)
 * 11/6 - Matthew Day Jackson, Artist
 * 11/13 - Wildcard
 * 12/4 - Josh Wolfe, Founder and Managing Director at Lux Capital
