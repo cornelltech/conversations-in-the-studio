@@ -8,16 +8,16 @@ Conversations take place in the Cornell Tech Studio, and are moderated each week
 
 The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
 
-* 8/21 - Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
-* 8/28 - Philip Kaplan, Founder at DistroKid, former Founder at F-ed Company
-* 9/11 – Steve Conine & Niraj Shah, Founders at Wayfair
-* 9/18 – Eric Schmidt, Chairman at Alphabet (and formerly of Google)
-* 10/2 - Sara Levinson, Co-founder at Kandu, former President at MTV
+* 8/21 - **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
+* 8/28 - **Serial entrepreneurship** with Philip Kaplan, Founder at DistroKid, former Founder at F-ed Company
+* 9/11 – **Teaming** with Steve Conine & Niraj Shah, Founders at Wayfair
+* 9/18 – **Entrepreneurship**  with Eric Schmidt, Chairman at Alphabet (and formerly of Google)
+* 10/2 - **Media** with Sara Levinson, Co-founder at Kandu, former President at MTV
 * 10/16 - Wildcard
-* 10/30 - Kristen Titus, Founding Director at NYC Tech Talent Pipeline, former Executive Director at Girls Who Code (**NOTE**: this is from 2:30p to 4:30p)
-* 11/6 - Matthew Day Jackson, Artist
+* 10/30 - **Civic entrepreneurship** with Kristen Titus, Founding Director at NYC Tech Talent Pipeline, former Executive Director at Girls Who Code (**NOTE**: this is from 2:30p to 4:30p)
+* 11/6 - **Art** with Matthew Day Jackson, Artist
 * 11/13 - Wildcard
-* 12/4 - Josh Wolfe, Founder and Managing Director at Lux Capital
+* 12/4 - **Venture capital** with Josh Wolfe, Founder and Managing Director at Lux Capital
 
 ## Course Objectives
 
