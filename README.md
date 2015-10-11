@@ -13,10 +13,10 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 9/11 – **Teaming** with Steve Conine & Niraj Shah, Founders at Wayfair
 * 9/18 – **Entrepreneurship**  with Eric Schmidt, Chairman at Alphabet (and formerly of Google)
 * 10/2 - **Media** with Sara Levinson, Co-founder at Kandu, former President at MTV
-* 10/16 - **Storytelling** with Robert Wong, Co-founder and Chief Creative Officer at Google Creative Lab
+* 10/16 - Wildcard
 * 10/30 - **Civic entrepreneurship** with Kristen Titus, Founding Director at NYC Tech Talent Pipeline, former Executive Director at Girls Who Code (**NOTE**: this is from 2:30p to 4:30p)
 * 11/6 - **Art** with Matthew Day Jackson, Artist
-* 11/13 - Wildcard
+* 11/13 - **Storytelling** with Robert Wong, Co-founder and Chief Creative Officer at Google Creative Lab
 * 12/4 - **Venture capital** with Josh Wolfe, Founder and Managing Director at Lux Capital
 
 ## Course Objectives
