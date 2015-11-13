@@ -48,6 +48,8 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 
 * Laptop and cell phone use are prohibited during the Conversation (journal use is permitted).
 
+* Students cannot invite guests to Conversations: these are closed-door sessions for current students only.
+
 * Respect the guest's time commitment and do not be late to class.
 
 ## Grading
