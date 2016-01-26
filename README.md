@@ -15,7 +15,7 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 3/11 – **Industry** with John Elkann, Chairman at Fiat Chrysler Automobiles
 * 3/18 – **Venture Capital** with TBD
 * 4/15 – **Entrepreneurship** with Biz Stone, Co-Founder and CEO at Jelly, Co-Founder at Twitter
-* 4/22 – **Science** with Margaret Honey, President and CEO at New York Hall of Science (**NOTE**: this is a field trip and will be held at The New York Hall of Science)
+* 4/22 – **Science** with Margaret Honey, President and CEO at New York Hall of Science (**NOTE**: this is a field trip and will be held at the New York Hall of Science)
 * 4/29 – **Intrapreneurship** with Tim Armstrong, CEO at AOL
 
 ## Course Objectives
