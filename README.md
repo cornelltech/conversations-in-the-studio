@@ -4,19 +4,19 @@ This practicum features a weekly guest practitioner for a provocative, closed-do
 
 Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
-## Schedule for Fall 2015
+## Schedule for Spring 2016
 
 The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
 
-* 8/21 - **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
-* 8/28 - **Serial entrepreneurship** with Philip Kaplan, Founder at DistroKid, former Founder at F-ed Company
-* 9/11 – **Teaming** with Steve Conine & Niraj Shah, Founders at Wayfair
-* 9/18 – **Entrepreneurship**  with Eric Schmidt, Chairman at Alphabet (and formerly of Google)
-* 10/2 - **Media** with Sara Levinson, Co-founder at Kandu, former President at MTV
-* 10/30 - **Civic entrepreneurship** with Kristen Titus, Founding Director at NYC Tech Talent Pipeline, former Executive Director at Girls Who Code (**NOTE**: this is from 2:30p to 4:30p)
-* 11/6 - **Art** with Matthew Day Jackson, Artist
-* 11/13 - **Storytelling** with Robert Wong, Co-founder and Chief Creative Officer at Google Creative Lab
-* 12/4 - **Venture capital** with Josh Wolfe, Founder and Managing Director at Lux Capital
+* 2/5 – **Art** with Matthew Ritchie, Artist
+* 2/12 – **Enterprise** with Charles Phillips, CEO at Infor
+* 2/19 – **Social Entrepreneurship** with Scott Harrison, Founder at Charity: Water
+* 3/4 – **Social Studies** with Sherry Turkle, Author of Reclaiming Conversation and Professor at MIT
+* 3/11 – **Industry** with John Elkann, Chairman at Fiat Chrysler Automobiles
+* 3/18 – **Venture Capital** with TBD
+* 4/15 – **Entrepreneurship** with Biz Stone, Co-Founder and CEO at Jelly, Co-Founder, Twitter
+* 4/22 – **Science** with Margaret Honey, President and CEO at New York Hall of Science (**NOTE**: this is a field trip and will be held at The New York Hall of Science)
+* 4/29 – **Intrapreneurship** with Tim Armstrong, CEO at AOL
 
 ## Course Objectives
 
@@ -55,6 +55,18 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
 
 ## Past Conversations
+
+### Fall 2015
+
+* 8/21 - **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
+* 8/28 - **Serial entrepreneurship** with Philip Kaplan, Founder at DistroKid, former Founder at F-ed Company
+* 9/11 – **Teaming** with Steve Conine & Niraj Shah, Founders at Wayfair
+* 9/18 – **Entrepreneurship**  with Eric Schmidt, Chairman at Alphabet (and formerly of Google)
+* 10/2 - **Media** with Sara Levinson, Co-founder at Kandu, former President at MTV
+* 10/30 - **Civic entrepreneurship** with Kristen Titus, Founding Director at NYC Tech Talent Pipeline, former Executive Director at Girls Who Code (**NOTE**: this is from 2:30p to 4:30p)
+* 11/6 - **Art** with Matthew Day Jackson, Artist
+* 11/13 - **Storytelling** with Robert Wong, Co-founder and Chief Creative Officer at Google Creative Lab
+* 12/4 - **Venture capital** with Josh Wolfe, Founder and Managing Director at Lux Capital
 
 ### Spring 2015
 
