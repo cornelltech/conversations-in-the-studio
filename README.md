@@ -12,8 +12,8 @@ The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p u
 * 2/12 – **Enterprise** with Charles Phillips, CEO at Infor
 * 2/19 – **Social Entrepreneurship** with Scott Harrison, Founder at Charity: Water
 * 3/4 – **Social Studies** with Sherry Turkle, author of Reclaiming Conversation and Professor at MIT
-* 3/11 – **Industry** with John Elkann, Chairman at Fiat Chrysler Automobiles
-* 3/18 – **Venture Capital** with TBD
+* 3/11 – **Venture Capital** with Eric Hippeau, Partner at Lerer Hippeau Ventures
+* 3/18 – **Wildcard** with TBD
 * 4/15 – **Entrepreneurship** with Biz Stone, Co-Founder and CEO at Jelly, Co-Founder at Twitter
 * 4/22 – **Science** with Margaret Honey, President and CEO at the New York Hall of Science (**NOTE**: this is a field trip and will be held at the New York Hall of Science)
 * 4/29 – **Intrapreneurship** with Tim Armstrong, CEO at AOL
