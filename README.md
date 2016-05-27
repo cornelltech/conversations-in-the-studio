@@ -1,12 +1,12 @@
 # Conversations in the Studio (CS 5091)
 
-This practicum features a weekly guest practitioner for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society through their entrepreneurial efforts.
+This course features a weekly guest practitioner for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society through their entrepreneurial efforts.
 
 Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
 ## Schedule for Spring 2016
 
-The practicum is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
+The course is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
 
 * 2/5 – **Art** with Matthew Ritchie, artist
 * 2/12 – **Enterprise** with Charles Phillips, CEO at Infor
