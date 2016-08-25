@@ -4,18 +4,19 @@ This course features a weekly guest practitioner for a provocative, closed-door 
 
 Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
-## Schedule for Spring 2016
+## Schedule for Fall 2016
 
 The course is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
 
-* 2/5 – **Art** with Matthew Ritchie, artist
-* 2/12 – **Enterprise** with Charles Phillips, CEO at Infor
-* 2/19 – **Social Entrepreneurship** with Scott Harrison, Founder at Charity: Water
-* 3/4 – **Social Studies** with Sherry Turkle, author of Reclaiming Conversation and Professor at MIT
-* 3/11 – **Venture Capital** with Eric Hippeau, Partner at Lerer Hippeau Ventures
-* 3/18 – **Technology** with Craig Nevill-Manning, CTO of Sidewalk Labs
-* 4/15 – **Entrepreneurship** with Biz Stone, Co-Founder and CEO at Jelly, Co-Founder at Twitter
-* 4/22 – **Science** with Margaret Honey, President and CEO at the New York Hall of Science (**NOTE**: this is a field trip and will be held at the New York Hall of Science)
+* 8/23 – **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
+* 9/9 – **Art** with Matthew Weinstein, artist and Cornell Tech ArtFoo Artist-in-Residence
+* 9/16 – **Industry** with John Elkann, Chairman of Fiat Chrysler Automobiles, Chairman and CEO at EXOR SpA 
+* 9/30 – **Entrepreneurship** with Chad Dickerson, CEO at Etsy
+* 10/7 – **Media** with Gina Garrubbo, President and CEO at National Public Media
+* 10/14 – **Wildcard**
+* 11/4 – **Wilcard**
+* 11/11 - **Wildcard**
+* 12/2 – **Investing** with David Tisch, Managing Partner of BoxGroup and Co-Founder of Spring and TechStars NYC
 
 ## Course Objectives
 
@@ -54,6 +55,17 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 12p unle
 This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
 
 ## Past Conversations
+
+### Spring 2016
+
+* 2/5 – **Art** with Matthew Ritchie, artist
+* 2/12 – **Enterprise** with Charles Phillips, CEO at Infor
+* 2/19 – **Social Entrepreneurship** with Scott Harrison, Founder at Charity: Water
+* 3/4 – **Social Studies** with Sherry Turkle, author of Reclaiming Conversation and Professor at MIT
+* 3/11 – **Venture Capital** with Eric Hippeau, Partner at Lerer Hippeau Ventures
+* 3/18 – **Technology** with Craig Nevill-Manning, CTO of Sidewalk Labs
+* 4/15 – **Entrepreneurship** with Biz Stone, Co-Founder and CEO at Jelly, Co-Founder at Twitter
+* 4/22 – **Science** with Margaret Honey, President and CEO at the New York Hall of Science (**NOTE**: this is a field trip and will be held at the New York Hall of Science)
 
 ### Fall 2015
 
