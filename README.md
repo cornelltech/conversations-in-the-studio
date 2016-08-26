@@ -8,7 +8,7 @@ Conversations take place in the Cornell Tech Studio, and are moderated each week
 
 The course is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
 
-* 8/23 – **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
+* 8/26 – **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
 * 9/9 – **Art** with Matthew Weinstein, artist and Cornell Tech ArtFoo Artist-in-Residence
 * 9/16 – **Industry** with John Elkann, Chairman of Fiat Chrysler Automobiles, Chairman and CEO at EXOR SpA 
 * 9/30 – **Entrepreneurship** with Chad Dickerson, CEO at Etsy
