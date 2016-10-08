@@ -13,7 +13,6 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 12p unle
 * 9/16 – **Industry** with John Elkann, Chairman of Fiat Chrysler Automobiles, Chairman and CEO at EXOR SpA 
 * 9/30 – **Entrepreneurship** with Chad Dickerson, CEO at Etsy
 * 10/7 – **Media** with Gina Garrubbo, President and CEO at National Public Media
-* 10/14 – **Wildcard**
 * 11/4 – **Wilcard**
 * 11/11 - **Wildcard**
 * 12/2 – **Investing** with David Tisch, Managing Partner of BoxGroup and Co-Founder of Spring and TechStars NYC
