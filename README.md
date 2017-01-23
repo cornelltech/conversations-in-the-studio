@@ -6,7 +6,7 @@ Conversations take place in the Cornell Tech Studio, and are moderated each week
 
 ## Schedule for Fall 2016
 
-The course is held at Cornell Tech in the Studio on Fridays from 10a to 12p unless otherwise noted.
+The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a unless otherwise noted.
 
 * 8/26 – **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
 * 9/9 – **Art** with Matthew Weinstein, artist and Cornell Tech ArtFoo Artist-in-Residence
