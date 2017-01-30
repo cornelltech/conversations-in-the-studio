@@ -16,7 +16,7 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a u
 * 3/17 – **Space** with Dan Goods, Visual Strategist at NASA's Jet Propulsion Laboratory
 * 3/24 – **Wildcard**
 * 4/14 – **Architecture** with Thom Mayne, Architect and Design Director at Morphosis Architects
-* 4/21 - **Wildcard**
+* 4/21 – **Wildcard**
 
 
 ## Course Objectives
