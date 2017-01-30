@@ -13,7 +13,7 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a u
 * 2/10 – **Design** with Rei Inamoto, Founding Partner at Inamoto & Co
 * 3/3 – **The Arts** with Clive Gillinson, Executive and Artistic Director at Carnegie Hall
 * 3/10 – **Marketing** with Omar Johnson, VP of Marketing at Apple and former CMO at Beats by Dre
-* 3/17 – **Space** with Dan Goods, Visual Strategist at NASA's Jet Propulsion Laboratory
+* 3/17 – **Outer Space** with Dan Goods, Visual Strategist at NASA's Jet Propulsion Laboratory
 * 3/24 – **Wildcard**
 * 4/14 – **Architecture** with Thom Mayne, Architect and Design Director at Morphosis Architects
 * 4/21 – **Wildcard**
