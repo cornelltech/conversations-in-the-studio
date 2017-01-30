@@ -41,7 +41,7 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a u
 
 *	At the end of each Conversation, both the moderating students and several students in the audience volunteer or are called upon to share their personal takeaways in front of the guest.
 
-* This is a closed-door practicum: students can tweet (or otherwise mention on social media) general information about a guest's Conversation but cannot quote the guest or share any specific information.
+* This is a closed-door course: students can tweet (or otherwise mention on social media) general information about a guest's Conversation but cannot quote the guest or share any specific information.
 
 * Laptop and cell phone use are prohibited during the Conversation (journal use is permitted).
 
@@ -51,7 +51,7 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a u
 
 ## Grading
 
-This practicum is graded S/U. Attendance and participation are required. Students are allowed one unexcused absence.
+This course is graded S/U. Attendance and participation are required. Students are allowed two unexcused absence.
 
 ## Past Conversations
 
