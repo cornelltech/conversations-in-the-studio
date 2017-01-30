@@ -4,18 +4,20 @@ This course features a weekly guest practitioner for a provocative, closed-door 
 
 Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
-## Schedule for Fall 2016
+## Schedule for Spring 2017
 
 The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a unless otherwise noted.
 
-* 8/26 – **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
-* 9/9 – **Art** with Matthew Weinstein, artist and Cornell Tech ArtFoo Artist-in-Residence
-* 9/16 – **Industry** with John Elkann, Chairman of Fiat Chrysler Automobiles, Chairman and CEO at EXOR SpA 
-* 9/30 – **Entrepreneurship** with Chad Dickerson, CEO at Etsy
-* 10/7 – **Media** with Gina Garrubbo, President and CEO at National Public Media
-* 11/4 – **Entrepreneurship** with Sarah LaFleur, Founder & CEO at MM.LaFleur
-* 11/11 - **Technology** with Alfred Spector, CTO at Two Sigma
-* 12/2 – **Investing** with David Tisch, Managing Partner of BoxGroup and Co-Founder of Spring and TechStars NYC
+* 1/27 – **Venture Capital** with John Borthwick, founder and CEO of Betaworks
+* 2/3 – **Media** with Sara Levinson, Co-founder at Kandu, former President at MTV
+* 2/10 – **Design** with Rei Inamoto, Founding Partner at Inamoto & Co
+* 3/3 – **The Arts** with Clive Gillinson, Executive and Artistic Director at Carnegie Hall
+* 3/10 – **Marketing** with Omar Johnson, VP of Marketing at Apple and former CMO at Beats by Dre
+* 3/17 – **Space** with Dan Goods, Visual Strategist at NASA's Jet Propulsion Laboratory
+* 3/24 – **Wildcard**
+* 4/14 – **Architecture** with Thom Mayne, Architect and Design Director at Morphosis Architects
+* 4/21 - **Wildcard**
+
 
 ## Course Objectives
 
@@ -54,6 +56,17 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a u
 This course is graded S/U. Attendance and participation are required. Students are allowed two unexcused absence.
 
 ## Past Conversations
+
+### Fall 2016
+
+* 8/26 – **Conversation** with Greg Pass, Chief Entrepreneurial Officer at Cornell Tech
+* 9/9 – **Art** with Matthew Weinstein, artist and Cornell Tech ArtFoo Artist-in-Residence
+* 9/16 – **Industry** with John Elkann, Chairman of Fiat Chrysler Automobiles, Chairman and CEO at EXOR SpA 
+* 9/30 – **Entrepreneurship** with Chad Dickerson, CEO at Etsy
+* 10/7 – **Media** with Gina Garrubbo, President and CEO at National Public Media
+* 11/4 – **Entrepreneurship** with Sarah LaFleur, Founder & CEO at MM.LaFleur
+* 11/11 - **Technology** with Alfred Spector, CTO at Two Sigma
+* 12/2 – **Investing** with David Tisch, Managing Partner of BoxGroup and Co-Founder of Spring and TechStars NYC
 
 ### Spring 2016
 
