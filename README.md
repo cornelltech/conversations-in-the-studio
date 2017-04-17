@@ -16,7 +16,7 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a u
 * 3/17 – **Outer Space** with Dan Goods, Visual Strategist at NASA's Jet Propulsion Laboratory
 * 3/24 – **Technology** with Minerva Tantoco, Senior Advisor at Future Perfect Ventures and former CTO for the City of New York 
 * 4/14 – **Architecture** with Thom Mayne, Architect and Design Director at Morphosis Architects
-* 4/21 – **More of the Arts** with Randy Weiner,Playwright, Producer and Theater and Nightclub Owner
+* 4/21 – **More of the Arts** with Randy Weiner, Playwright, Producer, and Theater and Nightclub Owner
 
 
 ## Course Objectives
