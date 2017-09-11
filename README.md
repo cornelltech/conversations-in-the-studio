@@ -1,25 +1,19 @@
-# Conversations in the Studio (CS 5091)
+# Conversations in the Studio
 
-This course features a weekly guest practitioner for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society through their entrepreneurial efforts.
+This event features a montly guest practitioner for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society through their entrepreneurial efforts.
 
-Conversations take place in the Cornell Tech Studio, and are moderated each week by a randomly assigned group of students that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
+Conversations take place in the Cornell Tech Studio, and are moderated by an assigned group of students and one Cornell Tech alum that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
 ## Schedule for Spring 2017
 
-The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a unless otherwise noted.
+The event is held at Cornell Tech in the Studio on Thursdays from 6p to 7:30p unless otherwise noted.
 
-* 1/27 – **Venture Capital** with John Borthwick, founder and CEO of Betaworks
-* 2/3 – **Media** with Sara Levinson, Co-founder at Kandu, former President at MTV
-* 2/10 – **Design** with Rei Inamoto, Founding Partner at Inamoto & Co
-* 3/3 – **The Arts** with Clive Gillinson, Executive and Artistic Director at Carnegie Hall
-* 3/10 – **Marketing** with Omar Johnson, former VP of Marketing at Apple and former CMO at Beats by Dre
-* 3/17 – **Outer Space** with Dan Goods, Visual Strategist at NASA's Jet Propulsion Laboratory
-* 3/24 – **Technology** with Minerva Tantoco, Senior Advisor at Future Perfect Ventures and former CTO for the City of New York 
-* 4/14 – **Architecture** with Thom Mayne, Architect and Design Director at Morphosis Architects
-* 4/21 – **More of the Arts** with Randy Weiner, Playwright, Producer, and Theater and Nightclub Owner
+* 9/21 – 
+* 10/5 – 
+* 10/19 – 
+* 11/30 – 
 
-
-## Course Objectives
+## Objectives
 
 *	To broadly expose students to varying forms of impact, from commercial success to societal good, from engineering to art, from the pure tech sector to the digital economy transforming all sectors, from startups to growth opportunities on and at any stage.
 
@@ -33,7 +27,7 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a u
 
 ## Student Responsibilities
 
-*	Each week an assigned group of students is responsible for moderating the group conversation. This includes researching the guest beforehand, [preparing the audience](https://github.com/cornelltech/conversations-in-the-studio/wiki/Prep), [preparing questions](https://github.com/cornelltech/conversations-in-the-studio/wiki/Questions), and [leading the conversation](https://github.com/cornelltech/conversations-in-the-studio/wiki/Moderation).
+*	Each Conversation, an assigned group of students is responsible for moderating the group conversation. This includes researching the guest beforehand, [preparing the audience](https://github.com/cornelltech/conversations-in-the-studio/wiki/Prep), [preparing questions](https://github.com/cornelltech/conversations-in-the-studio/wiki/Questions), and [leading the conversation](https://github.com/cornelltech/conversations-in-the-studio/wiki/Moderation).
 
 *	Students must proactively engage the guests and each other, asking attentive questions and making follow-up comments.
 
@@ -49,13 +43,21 @@ The course is held at Cornell Tech in the Studio on Fridays from 10a to 11:30a u
 
 * Students cannot invite guests to Conversations: these are closed-door sessions for current students only.
 
-* Respect the guest's time commitment and do not be late to class.
-
-## Grading
-
-This course is graded S/U. Attendance and participation are required. Students are allowed two unexcused absence.
+* Respect the guest's time commitment and do not be late to the event.
 
 ## Past Conversations
+
+### Spring 2017
+
+* 1/27 – **Venture Capital** with John Borthwick, founder and CEO of Betaworks
+* 2/3 – **Media** with Sara Levinson, Co-founder at Kandu, former President at MTV
+* 2/10 – **Design** with Rei Inamoto, Founding Partner at Inamoto & Co
+* 3/3 – **The Arts** with Clive Gillinson, Executive and Artistic Director at Carnegie Hall
+* 3/10 – **Marketing** with Omar Johnson, former VP of Marketing at Apple and former CMO at Beats by Dre
+* 3/17 – **Outer Space** with Dan Goods, Visual Strategist at NASA's Jet Propulsion Laboratory
+* 3/24 – **Technology** with Minerva Tantoco, Senior Advisor at Future Perfect Ventures and former CTO for the City of New York 
+* 4/14 – **Architecture** with Thom Mayne, Architect and Design Director at Morphosis Architects
+* 4/21 – **More of the Arts** with Randy Weiner, Playwright, Producer, and Theater and Nightclub Owner
 
 ### Fall 2016
 
