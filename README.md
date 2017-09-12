@@ -11,7 +11,7 @@ The event is held at Cornell Tech in the Studio on Thursdays from 6p to 7:30p un
 * 9/21 – with Denise Young Smith, Vice President, Inclusion and Diversity at Apple
 * 10/5 – with Jason Goldman, former Chief Digital Officer at the White House
 * 10/19 – with Alison Elizabeth Taylor, Artist
-* 11/30 – with Fred Wilson, Managing Partner at Union Square Ventures Fred Wilson
+* 11/30 – with Fred Wilson, Managing Partner at Union Square Ventures
 
 ## Objectives
 
