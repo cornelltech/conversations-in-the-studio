@@ -8,10 +8,10 @@ Conversations take place in the Cornell Tech Studio, and are moderated by an ass
 
 The event is held at Cornell Tech in the Studio on Thursdays from 6p to 7:30p unless otherwise noted.
 
-* 9/21 – with Denise Young Smith, Vice President, Inclusion and Diversity at Apple
-* 10/5 – with Jason Goldman, former Chief Digital Officer at the White House
-* 10/19 – with Alison Elizabeth Taylor, Artist
-* 11/30 – with Fred Wilson, Managing Partner at Union Square Ventures
+* 9/21 – **Denise Young Smith**, Vice President, Inclusion and Diversity at Apple
+* 10/5 – **Jason Goldman**, former Chief Digital Officer at the White House
+* 10/19 – **Alison Elizabeth Taylor**, Artist
+* 11/30 – **Fred Wilson**, Managing Partner at Union Square Ventures
 
 ## Objectives
 
