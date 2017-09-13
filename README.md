@@ -27,7 +27,7 @@ The event is held at Cornell Tech in the Studio on Thursdays from 6p to 7:30p un
 
 ## Student Responsibilities
 
-*	Each Conversation, an assigned group of students is responsible for moderating the group conversation. This includes researching the guest beforehand, [preparing the audience](https://github.com/cornelltech/conversations-in-the-studio/wiki/Prep), [preparing questions](https://github.com/cornelltech/conversations-in-the-studio/wiki/Questions), and [leading the conversation](https://github.com/cornelltech/conversations-in-the-studio/wiki/Moderation).
+*	Each Conversation, an assigned group of students and one Cornell Tech alum is responsible for moderating the group conversation. This includes researching the guest beforehand, [preparing the audience](https://github.com/cornelltech/conversations-in-the-studio/wiki/Prep), [preparing questions](https://github.com/cornelltech/conversations-in-the-studio/wiki/Questions), and [leading the conversation](https://github.com/cornelltech/conversations-in-the-studio/wiki/Moderation).
 
 *	Students must proactively engage the guests and each other, asking attentive questions and making follow-up comments.
 
