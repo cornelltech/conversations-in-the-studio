@@ -37,7 +37,7 @@ The event is held at Cornell Tech in the Studio on Thursdays from 6p to 7:30p un
 
 *	At the end of each Conversation, both the moderating students and several students in the audience volunteer or are called upon to share their personal takeaways in front of the guest.
 
-* This is a closed-door course: students can tweet (or otherwise mention on social media) general information about a guest's Conversation but cannot quote the guest or share any specific information.
+* This is a closed-door event: students can tweet (or otherwise mention on social media) general information about a guest's Conversation but cannot quote the guest or share any specific information.
 
 * Laptop and cell phone use are prohibited during the Conversation (journal use is permitted).
 
