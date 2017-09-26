@@ -6,7 +6,7 @@ Conversations take place in the Cornell Tech Studio, and are moderated by an ass
 
 ## Schedule for Fall 2017
 
-The event is held at Cornell Tech in the Studio on Thursdays from 6p to 7:30p unless otherwise noted.
+The event is held at Cornell Tech in the Studio on Thursdays from 6:15p to 7:30p unless otherwise noted.
 
 * 9/21 – **Denise Young Smith**, Vice President, Inclusion and Diversity at Apple
 * 10/5 – **Jason Goldman**, former Chief Digital Officer at the White House
