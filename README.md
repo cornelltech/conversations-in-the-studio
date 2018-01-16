@@ -4,14 +4,12 @@ This event features a montly guest practitioner for a provocative, closed-door d
 
 Conversations take place in the Cornell Tech Studio, and are moderated by an assigned group of students and one Cornell Tech alum that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
-## Schedule for Fall 2017
+## Schedule for Spring 2018
 
 The event is held at Cornell Tech in the Studio on Thursdays from 6:15p to 7:30p unless otherwise noted.
 
-* 9/21 – **Denise Young Smith**, Vice President, Inclusion and Diversity at Apple
-* 10/5 – **Jason Goldman**, former Chief Digital Officer at the White House
-* 10/19 – **Alison Elizabeth Taylor**, Artist
-* 11/30 – **Fred Wilson**, Managing Partner at Union Square Ventures
+* 9/21 – **Biz Stone**, Entrepreneur and co-founder of Twitter
+* More announcements to come
 
 ## Objectives
 
@@ -46,6 +44,12 @@ The event is held at Cornell Tech in the Studio on Thursdays from 6:15p to 7:30p
 * Respect the guest's time commitment and do not be late to the event.
 
 ## Past Conversations
+
+### Fall 2017
+* 9/21 – **Denise Young Smith**, Vice President, Inclusion and Diversity at Apple
+* 10/5 – **Jason Goldman**, former Chief Digital Officer at the White House
+* 10/19 – **Alison Elizabeth Taylor**, Artist
+* 11/30 – **Fred Wilson**, Managing Partner at Union Square Ventures
 
 ### Spring 2017
 
