@@ -8,8 +8,9 @@ Conversations take place in the Cornell Tech Studio, and are moderated by an ass
 
 The event is held at Cornell Tech in the Studio on Thursdays from 6:15p to 7:30p unless otherwise noted.
 
-* 9/21 – **Biz Stone**, Entrepreneur and co-founder of Twitter
-* More announcements to come
+* 1/21 – **Biz Stone**, Entrepreneur and co-founder of Twitter
+* 3/2 – **Eric Schmidt**, Entrepreneur and former Google exec
+* More to come
 
 ## Objectives
 
