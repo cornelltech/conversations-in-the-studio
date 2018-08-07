@@ -4,13 +4,11 @@ This event features a montly guest practitioner for a provocative, closed-door d
 
 Conversations take place in the Cornell Tech Studio, and are moderated by an assigned group of students and one Cornell Tech alum that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
 
-## Schedule for Spring 2018
+## Schedule for Fall 2018
 
-The event is held at Cornell Tech in the Studio on Thursdays from 6:15p to 7:30p unless otherwise noted.
+The event is held at Cornell Tech in the Studio on Thursdays from 6:10p to 7:30p unless otherwise noted.
 
-* 1/21 – **Biz Stone**, Entrepreneur and co-founder of Twitter
-* 3/2 – **Eric Schmidt**, Entrepreneur and former Google exec
-* More to come
+* **Announcements coming soon**
 
 ## Objectives
 
@@ -45,6 +43,11 @@ The event is held at Cornell Tech in the Studio on Thursdays from 6:15p to 7:30p
 * Respect the guest's time commitment and do not be late to the event.
 
 ## Past Conversations
+
+### Spring 2018
+* 1/21 – **Biz Stone**, Entrepreneur and co-founder of Twitter
+* 3/2 – **Eric Schmidt**, Entrepreneur and former Google exec
+* 4/27 – **Noah & Jonah Goodhart**, CEO and Co-Founders of Moat
 
 ### Fall 2017
 * 9/21 – **Denise Young Smith**, Vice President, Inclusion and Diversity at Apple
