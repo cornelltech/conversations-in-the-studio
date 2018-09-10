@@ -1,14 +1,14 @@
 # Conversations in the Studio
 
-This event features a montly guest practitioner for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society through their entrepreneurial efforts.
+This event features a monthly guest practitioner for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society through their entrepreneurial efforts.
 
-Conversations take place in the Cornell Tech Studio, and are moderated by an assigned group of students and one Cornell Tech alum that come prepared with questions and discussion topics. This is not a lecture: it's a weekly wake-up call.
+Conversations take place in the Studio at Cornell Tech, and are moderated by Cornell Tech students and alum that come prepared with questions and discussion topics. This is not a lecture: it's a wake-up call!
 
 ## Schedule for Fall 2018
 
-The event is held at Cornell Tech in the Studio on Thursdays from 6:10p to 7:30p unless otherwise noted.
+Conversations are held in the Studio at Cornell Tech on Thursdays from 6:10p to 7:30p unless otherwise noted.
 
-* **Announcements coming soon**
+**Announcements coming soon**
 
 ## Objectives
 
