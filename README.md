@@ -8,7 +8,7 @@ Conversations take place in the Studio at Cornell Tech, and are moderated by Cor
 
 Conversations are held in the Studio at Cornell Tech on Thursdays from 6:10p to 7:30p unless otherwise noted.
 
-**Announcements coming soon**
+*Announcements for this semester coming soon!*
 
 ## Objectives
 
