@@ -5,9 +5,13 @@ This event features a monthly guest practitioner for a provocative, closed-door 
 Conversations take place in the Studio at Cornell Tech, and are moderated by Cornell Tech students and alum that come prepared with questions and discussion topics. This is not a lecture: it's a wake-up call!
 
 ## Schedule for Fall 2018
+
+Friday, 11/9 at 10a-11:15a 
+
 **Jay Walker**, entrepreneur and founder of Priceline.com and currently chairman and CEO of Upside Travel
 
 Friday, 11/29 at 12:30p-1:45p
+
 **Bradley Horowitz**, entrepreneur and Vice President at Google, former CTO/ Co-founder of Virage, Inc.
 
 **Chad Dickerson**, CEO coach at Reboot.io, Cornell Tech fellow, former CEO of Etsy
