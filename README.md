@@ -1,6 +1,6 @@
 # Conversations in the Studio
 
-This event features a monthly guest practitioner for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society through their entrepreneurial efforts.
+This event features guest practitioners for a provocative, closed-door discussion with students. The guest practitioners are active entrepreneurs, intrapreneurs, social entrepreneurs, engineers, designers, artists, VCs, lawyers, writers, ethicists, and other diverse leaders who are impacting society through their entrepreneurial efforts.
 
 Conversations take place in the Studio at Cornell Tech, and are moderated by Cornell Tech students and alum that come prepared with questions and discussion topics. This is not a lecture: it's a wake-up call!
 
@@ -22,7 +22,7 @@ Conversations take place in the Studio at Cornell Tech, and are moderated by Cor
 
 *	Students must proactively engage the guests and each other, asking attentive questions and making follow-up comments.
 
-* Whenever a student speaks for the first time in a given week, they should tell the guest their name, degree, and one thing about themselves.
+* Whenever a student speaks for the first time, they should tell the guest their name, degree, and one thing about themselves.
 
 * Students asking questions from the audience should stand up when called upon.
 
