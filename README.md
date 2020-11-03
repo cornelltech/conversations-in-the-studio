@@ -38,6 +38,9 @@ Conversations take place in the Studio at Cornell Tech, and are moderated by Cor
 
 ## Past Conversations
 
+## Fall 2019
+* 10/20 - **Heidi Messer**, Founder of LinkShare and Collective(i)
+
 ## Spring 2019
 * 3/8 - **Liza Landsman**, Venture Partner at NEA and former President at Jet.com
 * 5/7 - **Marissa Mayer**, Co-founder of Lumi Labs and former President and CEO of Yahoo!
